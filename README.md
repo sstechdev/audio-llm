@@ -23,8 +23,8 @@ Before running the script, ensure you have the following:
 1. **Clone the repository**:
 
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/sstechdev/audio-llm.git
+    cd audio-llm
     ```
 
 2. **Create a virtual environment** (optional but recommended):
@@ -47,7 +47,6 @@ Before running the script, ensure you have the following:
     ```ini
     GROQ_API_KEY=your_groq_api_key
     ELEVENLABS_API_KEY=your_elevenlabs_api_key
-    ASSEMBLYAI_API_KEY=your_assemblyai_api_key
     ```
 
 ## Usage
